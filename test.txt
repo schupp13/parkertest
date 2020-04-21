@@ -2,6 +2,7 @@ test
 
 Richard - 1 change
 Richard - 2 change in the dev branch
+Richard - 3 change from the richard-s3 branch
 
 
 this is from s3
